@@ -102,5 +102,4 @@ theme:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy: 
   type: git 
-  repo: https://github.com/HkThinker/hkthinker.github.io
-  branch: gh-pages
+  repo: git@github.com:HkThinker/IntelliSenseHub_Blog.git
