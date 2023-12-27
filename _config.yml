@@ -96,10 +96,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: 
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy: 
   type: git 
-  repo: git@github.com:HkThinker/IntelliSenseHub_Blog.git
+  repo: https://github.com/HkThinker/HkThinker.github.io
+  branch: gh-pages
