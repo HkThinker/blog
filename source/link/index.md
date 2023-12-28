@@ -1,8 +1,8 @@
 ---
-title: {{ title }}
-date: {{ date }}
+title: link
+date: 2023-12-28 02:12:03
 updated:
-type:
+type: "link"
 comments:
 description:
 keywords:
@@ -12,5 +12,5 @@ katex:
 aside:
 aplayer:
 highlight_shrink:
-random:
+random: true
 ---
